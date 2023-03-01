@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+:root{
+    color-scheme: dark;
+}
+div{
+    padding-left: 16%;
+    padding-right: 16%;
+}
